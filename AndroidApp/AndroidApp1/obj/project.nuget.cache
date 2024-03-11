@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aCJGGc6ffjOlapxwd3aTJ1CxaNp6LURFHkbkkJuBdk0cOuQvC7+rGv/VsHrs/I8O86ifptWsEQjsjaBH/GhG5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wendy\\Documents\\GitHub\\app_epi\\AndroidApp\\AndroidApp1\\AndroidApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wendy\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
